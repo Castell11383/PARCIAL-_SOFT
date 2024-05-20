@@ -21,12 +21,7 @@
                 <input type="datetime" name="fecha/hora" id="fecha/hora" min="0" step="0.01" class="form-control" required>
             </div>
         </div>
-        <div class="row mb-3">
-            <div class="col">
-                <label for="menu">Menú:</label>
-                <input type="text" name="menu" id="menu" min="0" step="0.01" class="form-control" required>
-            </div>
-        </div>
+
         <div class="row mb-3">
             <div class="col">
                 <label for="Tiemp_comida">Tiempo de la comida:</label>
